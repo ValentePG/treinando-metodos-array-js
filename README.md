@@ -2,7 +2,7 @@
  
 ## 💻 Projeto 
 Aprendendo e utilizando alguns métodos de arrays em um site 
-[Você pode visitar o site aqui]()
+[Você pode visitar o site aqui](https://valentepg.github.io/treinando-metodos-array-js/)
 
 ## 🛠️ Funcionalidades
 Site que simula uma loja online que mostra os livros a venda disponiveis e indisponiveis,
